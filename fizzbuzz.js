@@ -1,4 +1,4 @@
-// Place your FizzBuzz code here. 
+// FizzBuzz.js - 
 
 //Count through from 1 to 20 and figure out if each is devisible by 3, 5, or both.
 
